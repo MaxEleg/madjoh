@@ -1,0 +1,21 @@
+{
+  "name": "madjoh",
+  "version": "1.0.0",
+  "description": "Cr�e par Elegbe Maximilien le 16/02/17 Projet finalis� en 24h (d�but� le 14/02 finalis� le 16/02)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maximilien Elegbe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mongodb": "^2.2.24",
+    "mongojs": "^2.4.0",
+    "path": "^0.12.7",
+    "request": "^2.79.0",
+    "socket.io": "^1.7.2"
+  }
+}
